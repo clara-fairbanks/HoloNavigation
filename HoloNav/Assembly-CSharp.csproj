@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GoogleMaps\Scripts\GoogleMap.cs" />
      <Compile Include="Assets\StreetViewConverterTools\FetcherAddMenuItem.cs" />
      <Compile Include="Assets\StreetViewConverterTools\TextureTool.cs" />
      <None Include="Assets\StreetViewPack\mosqueYard\url.txt" />
@@ -56,14 +57,17 @@
      <None Include="Assets\StreetViewPack\StreetPreView.shader" />
      <None Include="Assets\StreetViewConverterTools\readme1.5.03.txt" />
      <None Include="Assets\StreetViewPack\mountainValley\url.txt" />
+     <None Include="Assets\StreetViewConverterPanoramas\_40.716744x-74.0118914\url.txt" />
      <None Include="Assets\StreetViewPack\jungleRuins\url.txt" />
      <None Include="Assets\StreetViewPack\floralPatio\url.txt" />
      <None Include="Assets\StreetViewConverterTools\StreetView.shader" />
      <None Include="Assets\StreetViewPack\egyptPyramid\url.txt" />
      <None Include="Assets\StreetViewPack\catHouse\url.txt" />
      <None Include="Assets\StreetViewPack\nightCity\url.txt" />
+     <None Include="Assets\StreetViewConverterPanoramas\_40.718837x-74.0119636\url.txt" />
      <None Include="Assets\StreetViewPack\smallCafe\url.txt" />
      <None Include="Assets\StreetViewPack\aircraftCockpit\url.txt" />
+     <None Include="Assets\GoogleMaps\README.txt" />
      <None Include="Assets\StreetViewPack\sportStadium\url.txt" />
      <None Include="Assets\StreetViewPack\StreetView.shader" />
      <None Include="Assets\StreetViewPack\readme.txt" />

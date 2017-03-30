@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/StreetView Skybox.unity
+- path: Assets/Scenes/mapAtStart.unity
   isLoaded: 1
   isActive: 1
